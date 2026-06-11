@@ -13,22 +13,22 @@
 - [ ] Ashveil streets
 
 ## 3D Models — Objects
-- [ ] Bed, wardrobe, drawer
-- [ ] Bathroom mirror
-- [ ] Files/documents
-- [ ] Old photograph
-- [ ] Black diary
-- [ ] Room 8 key
-- [ ] Audio tape
-- [ ] Evidence board
-- [ ] Candle
-- [ ] Paani ka glass
-- [ ] Calendar
-- [ ] Peele joote
-- [ ] Battery pack
-- [ ] Painkillers bottle
-- [ ] Chocolate bar
-- [ ] First Aid kit
+- [x] Bed, wardrobe, drawer
+- [x] Bathroom mirror
+- [x] Files/documents
+- [x] Old photograph
+- [x] Black diary
+- [x] Room 8 key
+- [x] Audio tape
+- [x] Evidence board
+- [x] Candle
+- [x] Paani ka glass
+- [x] Calendar
+- [x] Peele joote
+- [x] Battery pack
+- [x] Painkillers bottle
+- [x] Chocolate bar
+- [x] First Aid kit
 
 ## Characters
 - [ ] Ethan Cole
@@ -43,59 +43,59 @@
 - [ ] The Faceless One
 
 ## Sounds — Ambient
-- [ ] Barish loop
-- [ ] Wind loop
-- [ ] Kutta rona — distant
-- [ ] Hotel low hum
-- [ ] Complete silence track
+- [x] Barish loop
+- [x] Wind loop
+- [x] Kutta rona — distant
+- [x] Hotel low hum
+- [x] Complete silence track
 
 ## Sounds — Music
-- [ ] Warm opening music
-- [ ] Horror ambient — Ashveil
-- [ ] Sad piano — ending
-- [ ] Uncomfortable drone — dream
-- [ ] Ticking clock — puzzle
+- [x] Warm opening music
+- [x] Horror ambient — Ashveil
+- [x] Sad piano — ending
+- [x] Uncomfortable drone — dream
+- [x] Ticking clock — puzzle
 
 ## Sounds — Effects
-- [ ] Page flip
-- [ ] Ink scratch
-- [ ] Static/glitch
-- [ ] Alarm buzz
-- [ ] Jumpscare screech x4
-- [ ] Door creak
-- [ ] Footsteps
-- [ ] Phone buzz
-- [ ] Flashlight click
-- [ ] Key pickup
-- [ ] Tape crackle
+- [x] Page flip
+- [x] Ink scratch
+- [x] Static/glitch
+- [x] Alarm buzz
+- [x] Jumpscare screech x4
+- [x] Door creak
+- [x] Footsteps
+- [x] Phone buzz
+- [x] Flashlight click
+- [x] Key pickup
+- [x] Tape crackle
 
 ## Fonts
-- [ ] Creepster — title
-- [ ] Special Elite — diary
-- [ ] IM Fell English — dialogue
-- [ ] Oswald — UI
+- [x] Creepster — title
+- [x] Special Elite — diary
+- [x] pixels — dialogue
+- [x] Oswald — UI
 
 ## Textures
-- [ ] Aged paper
-- [ ] Old brick wall
-- [ ] Dark wood
-- [ ] Foggy glass
-- [ ] Dark concrete
-- [ ] Stain texture
+- [x] Aged paper
+- [x] Old brick wall
+- [x] Dark wood
+- [x] Foggy glass
+- [x] Dark concrete
+- [x] Stain texture
 
 ## UI / Icons
-- [ ] Diary icon
-- [ ] Inventory bag icon
-- [ ] Flashlight icon
-- [ ] Battery bar
-- [ ] Calm meter bar
-- [ ] Puzzle timer
-- [ ] Custom joystick
-- [ ] Main menu thumbnail
+- [x] Diary icon
+- [x] Inventory bag icon
+- [x] Flashlight icon
+- [x] Battery bar
+- [x] Calm meter bar
+- [x] Puzzle timer
+- [x] Custom joystick
+- [x] Main menu thumbnail
 
 ## Shaders
-- [ ] Vignette
-- [ ] Film grain
-- [ ] Chromatic aberration
-- [ ] Screen distortion
-- [ ] Motion blur
+- [x] Vignette
+- [x] Film grain
+- [x] Chromatic aberration
+- [x] Screen distortion
+- [x] Motion blur
